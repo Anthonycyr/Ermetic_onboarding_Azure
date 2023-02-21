@@ -48,3 +48,5 @@ Thumbs.db
 *.mov
 *.wmv
 
+#to make sur its never in the repo
+*.tfstate
